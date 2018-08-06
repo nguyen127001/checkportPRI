@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apiToken="604615428:AAFPIR2cA9N0fWGqjPivc-4AsbGk7EcY43s"
+apiToken="  "
 chatId="409125565"
 # portUp=(2184 9095 2183 9094 2182)
 portUp=(80 22 24)
